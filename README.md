@@ -19,7 +19,7 @@ Aplicación Android nativa para la gestión de control de acceso y monitoreo de 
 - UI moderna y responsive
 
 🎥 [Demo en video](./assets/App-hospital/App-Hospital.mp4)  
-🔗 **Repositorio:** https://github.com/tuusuario/hospital-security-app
+🔗 **Repositorio:** [App-hospital](https://github.com/FabricioMendoza-GT/App-TiendaGaming)
 
 ---
 
@@ -56,7 +56,7 @@ Aplicación móvil multiplataforma para la gestión de finanzas personales, con 
 
 | Inicio | Gastos | Estadisticas | Perfil |
 |--------|--------| Estadisticas | Perfil |
-| ![Inicio](./assets/App-walletflow/Inicio.jpeg) | ![Gastos](App-walletflow/Gastos.jpeg) | ![Estadisticas](App-walletflow/Estadisticas.jpeg) | ![Perfil](App-walletflow/Perfil.jpeg) |
+| ![Inicio](./assets/App-walletflow/Inicio.jpeg) | ![Gastos](./assets/App-walletflow/Gastos.jpeg) | ![Estadisticas](./assets/App-walletflow/Estadisticas.jpeg) | ![Perfil](./assets/App-walletflow/Perfil.jpeg) |
 
 🔗 **Repositorio:** [App-walletflow](https://github.com/FabricioMendoza-GT/App-walletflow)
 
