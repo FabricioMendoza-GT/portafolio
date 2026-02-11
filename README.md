@@ -52,13 +52,33 @@ Aplicación móvil multiplataforma para la gestión de finanzas personales, con 
 - Captura de recibos
 - Perfil de usuario y modo oscuro
 
-🖼️ **Capturas de pantalla:**
+🖼️ **Capturas de pantalla – WalletFlow**
 
-| Inicio | Gastos | Estadisticas | Perfil |
-|--------|--------| Estadisticas | Perfil |
-| ![Inicio](./assets/App-walletflow/Inicio.jpeg) | ![Gastos](./assets/App-walletflow/Gastos.jpeg) | ![Estadisticas](./assets/App-walletflow/Estadisticas.jpeg) | ![Perfil](./assets/App-walletflow/Perfil.jpeg) |
+<table>
+  <tr>
+    <th>Inicio</th>
+    <th>Gastos</th>
+    <th>Estadísticas</th>
+    <th>Perfil</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/App-walletflow/Inicio.jpeg" width="180"/>
+    </td>
+    <td align="center">
+      <img src="./assets/App-walletflow/Gastos.jpeg" width="180"/>
+    </td>
+    <td align="center">
+      <img src="./assets/App-walletflow/Estadisticas.jpeg" width="180"/>
+    </td>
+    <td align="center">
+      <img src="./assets/App-walletflow/Perfil.jpeg" width="180"/>
+    </td>
+  </tr>
+</table>
 
-🔗 **Repositorio:** [App-walletflow](https://github.com/FabricioMendoza-GT/App-walletflow)
+🔗 **Repositorio:**  
+[App-walletflow](https://github.com/FabricioMendoza-GT/App-walletflow)
 
 ---
 
@@ -86,7 +106,6 @@ Dashboard web para visualización de métricas y control administrativo.
 - Paneles de control
 - Vistas administrativas
 - Diseño limpio y responsive
-
 
 
 ## 🔁 Automatización & APIs
