@@ -18,7 +18,7 @@ Aplicación Android nativa para la gestión de control de acceso y monitoreo de 
 - Alertas visuales y control por plantas
 - UI moderna y responsive
 
-🎥 [Demo en video](#)  
+🎥 [Demo en video](./assets/App-hospital/App-Hospital.mp4)  
 🔗 **Repositorio:** https://github.com/tuusuario/hospital-security-app
 
 ---
@@ -35,8 +35,8 @@ Aplicación Android nativa tipo E-Commerce gaming, con carrito de compras, auten
 - Autenticación local
 - Conversión de monedas con API externa
 
-🎥 [Demo en video](#)  
-🔗 **Repositorio:** https://github.com/tuusuario/gaming-store
+🎥 [Demo en video](./assets/App-TiendaGaming/App-TiendaGaming.mp4)  
+🔗 **Repositorio:** [App-Tienda](https://github.com/FabricioMendoza-GT/App-TiendaGaming)
 
 ---
 
@@ -54,11 +54,11 @@ Aplicación móvil multiplataforma para la gestión de finanzas personales, con 
 
 🖼️ **Capturas de pantalla:**
 
-| Inicio | Gastos | Perfil |
-|--------|--------|--------|
-| ![Inicio](#) | ![Gastos](#) | ![Perfil](#) |
+| Inicio | Gastos | Estadisticas | Perfil |
+|--------|--------| Estadisticas | Perfil |
+| ![Inicio](./assets/App-walletflow/Inicio.jpeg) | ![Gastos](App-walletflow/Gastos.jpeg) | ![Estadisticas](App-walletflow/Estadisticas.jpeg) | ![Perfil](App-walletflow/Perfil.jpeg) |
 
-🔗 **Repositorio:** https://github.com/tuusuario/walletflow
+🔗 **Repositorio:** [App-walletflow](https://github.com/FabricioMendoza-GT/App-walletflow)
 
 ---
 
@@ -75,9 +75,6 @@ Sistema web para la gestión de clientes, roles, objetos y vistas, orientado a f
 - Roles y permisos
 - Vistas personalizadas
 
-🔗 **Repositorio:** *(agregar link)*
-
----
 
 ### 📊 Dashboard Administrativo
 
@@ -90,9 +87,7 @@ Dashboard web para visualización de métricas y control administrativo.
 - Vistas administrativas
 - Diseño limpio y responsive
 
-🔗 **Repositorio:** *(agregar link)*
 
----
 
 ## 🔁 Automatización & APIs
 
@@ -107,9 +102,6 @@ Flujos de automatización para integración entre sistemas mediante APIs y Webho
 - Transformación de datos
 - Automatización de procesos
 
-🔗 **Repositorio / Documentación:** *(agregar link)*
-
----
 
 ### 🔌 API de Extracción de Datos
 
@@ -122,9 +114,6 @@ API REST desarrollada para la extracción y manejo de datos de clientes, aplican
 - Manejo estructurado de datos
 - Uso de Postman para pruebas
 
-🔗 **Repositorio:** *(agregar link)*
-
----
 
 ## 🧠 Casos de Estudio
 
@@ -151,9 +140,8 @@ Este portafolio refleja proyectos desarrollados con fines educativos y profesion
 
 ## 📬 Contacto
 
-- 📧 Email: *(agregar email)*
-- 💼 LinkedIn: *(agregar perfil)*
-- 🐙 GitHub: *(agregar perfil)*
+- 📧 Email: *(Studentmendoza3@gmail.com)*
+- 🐙 GitHub: *([Perfil](https://github.com/FabricioMendoza-GT))*
 
 ---
 
